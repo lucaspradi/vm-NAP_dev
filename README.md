@@ -1,6 +1,6 @@
 # Virtual Metabolism Network Annotation Propagation (vm-NAP)
 
-This notebook downloads results of spectral annotations from [classical molecular networking](https://ccms-ucsd.github.io/GNPSDocumentation/networking/) or [feature-based molecular networking ](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking/)job from GNPS [[http://gnps.ucsd.edu](http://gnps.ucsd.edu)] and generate virtual metabolites either with SyGMa or BioTransformer. The resulting candidates can be used for [Network Annotation Propagation](https://ccms-ucsd.github.io/GNPSDocumentation/nap/) on GNPS or with [SIRIUS](https://boecker-lab.github.io/docs.sirius.github.io/install/).
+This script downloads results of spectral annotations from [classical molecular networking](https://ccms-ucsd.github.io/GNPSDocumentation/networking/) or [feature-based molecular networking ](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking/)job from GNPS [[http://gnps.ucsd.edu](http://gnps.ucsd.edu)] and generate virtual metabolites either with SyGMa or BioTransformer. The resulting candidates can be used for [Network Annotation Propagation](https://ccms-ucsd.github.io/GNPSDocumentation/nap/) on GNPS or with [SIRIUS](https://boecker-lab.github.io/docs.sirius.github.io/install/).
 
 
 ## Running vm-NAP
@@ -8,7 +8,7 @@ This notebook downloads results of spectral annotations from [classical molecula
 ### vm-NAP web-app (cloud-based)
 
 Click on the following link to launch the vm-NAP web-app. 
-Note that this is a streamlit temporary instance with limited ressources.
+Note that this is a streamlit temporary instance with limited ressources. For larger projects or better computational power, please install and use it locally.
 
 
 ### Local installation
